@@ -1,3 +1,3 @@
 # Tags
 
-Terraform integrated repo for tagging in AWS
+Module to generate tags for AmTrust AWS resources.
