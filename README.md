@@ -16,4 +16,4 @@ This module will generate the required tags for resources deployed into AmTrust 
 
 ## Version
 
-v0.1.4
+v0.1.5
