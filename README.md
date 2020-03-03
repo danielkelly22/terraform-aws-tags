@@ -2,7 +2,7 @@
 
 This module will generate the required tags for resources deployed into AmTrust AWS accounts. The tags will be returned as an HCL map containing the following elements:
 
-``` c#
+```
 {
     location             = "" // The region of the provider that this module is running under
     business-unit        = "" // The "business_unit" provided in the module variables
@@ -16,4 +16,4 @@ This module will generate the required tags for resources deployed into AmTrust 
 
 ## Version
 
-v0.1.3
+v0.1.4
