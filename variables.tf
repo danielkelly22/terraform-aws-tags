@@ -28,3 +28,8 @@ variable "infrastructure_owner" {
   type        = string
 }
 
+variable "terraform_workspace" {
+  description = "The worskpace that manages the resources."
+  type        = string
+  default     = terraform.workspace
+}
