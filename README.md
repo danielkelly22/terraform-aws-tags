@@ -11,9 +11,6 @@ This module will generate the required tags for resources deployed into AmTrust 
     application-name     = "" // The "application_name" provided in the module variables
     application-owner    = "" // The "application_owner" provided in the module variables
     infrastructure-owner = "" // The "infrastructure_owner" provided in the module variables
+    terraform-workspace  = "" // The Terraform workspace that manages this resource
 }
 ```
-
-## Version
-
-v0.1.5

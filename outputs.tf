@@ -8,5 +8,6 @@ output "tags" {
     application-name     = var.application_name
     application-owner    = var.application_owner
     infrastructure-owner = var.infrastructure_owner
+    terraform-workspace  = terraform.workspace
   }
 }
